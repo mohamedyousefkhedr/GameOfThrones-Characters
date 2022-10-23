@@ -1,16 +1,10 @@
-# flutter_project_got
+I was thinking of watching GOT but I need to get to know the characters a little closer so why not?
 
-A new Flutter project.
+Flutter app to implement the concept of the bloc design pattern
+I used the free API:
 
-## Getting Started
+https://thronesapi.com/api/v2/
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/100997800/197409452-ad6bc07e-d70f-4b1b-ae47-7799b60158ac.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/100997800/197409487-474ec192-b968-4a89-8f63-1c9fa9a4723a.png)
